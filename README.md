@@ -66,5 +66,4 @@ CREATE TABLE reply(
 WebContent/Blog_CustomPage/**
 
 #### 5. 실행 영상
-<iframe width="640" height="360" src="https://www.youtube.com/watch?v=yIQv-1JEwtI&t=58s" frameborder="0" gesture="media" allowfullscreen=""></iframe>
 -youtube주소 : <https://www.youtube.com/watch?v=yIQv-1JEwtI&t=58s>
